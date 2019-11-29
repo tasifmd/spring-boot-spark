@@ -8,7 +8,6 @@
 		<artifactId>spring-boot-spark</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.tasif</groupId>
 	<artifactId>apache-spark</artifactId>
 	<name>apache-spark</name>
 	<description>Demo project for Spring Boot</description>
