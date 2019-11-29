@@ -1,29 +1,35 @@
 *.class
 
-# Mobile Tools for Java (J2ME)
+####################################
+### Mobile Tools for Java (J2ME) ###
+####################################
 .mtj.tmp/
 
-# Package Files #
+#####################
+### Package Files ###
+#####################
 *.jar
 *.war
 *.ear
 
-#Gradle temporary files
+#######################
+### Temporary files ###
+#######################
 target/
 apache-spark/target/
 
-#Eclipse files
+#####################
+### Eclipse files ###
+#####################
 **/.project
 **/.classpath
 **/.settings/
 blog/bin/
 **/.tern-project
 
-#IntelliJ files
+######################
+### IntelliJ files ###
+######################
 **/*.iml
 **/.idea
 **/.gradle
-
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
