@@ -24,6 +24,7 @@ apache-spark/target/
 **/.project
 **/.classpath
 **/.settings/
+**/apache-spark/.settings/
 blog/bin/
 **/.tern-project
 
